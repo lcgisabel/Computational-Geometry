@@ -1,0 +1,389 @@
+﻿  ch.cpp
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(127): warning C4273: 'logb': vínculo de dll inconsistente
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(519): note: consulte a definição anterior de 'logb'
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(199): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(201): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(635): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(635): warning C4244: '+=': conversão de 'Coord' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(738): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\pc\ch.cpp(739): warning C4305: '=': truncamento de 'double' para 'float'
+  crust.cpp
+  fg.cpp
+  getopt.cpp
+  heap.cpp
+  hull.cpp
+  hullmain.cpp
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(236): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(281): warning C4244: '=': conversão de 'double' para 'long', possível perda de dados
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(9): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(10): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(10): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(50): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(50): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(9): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(10): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(10): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(571): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(571): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(572): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(572): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(647): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(647): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(1546): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\fstream(1546): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sstream(9): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sstream(10): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sstream(10): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sstream(744): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\sstream(744): warning C4081: esperado 'identificador'; encontrado '{'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(409): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(448): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(466): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(469): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(483): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(488): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(490): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(492): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(502): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(503): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(504): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(514): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(518): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(519): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(576): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(660): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(661): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(669): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(675): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(676): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(677): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(678): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(679): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(680): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(703): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(736): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(738): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(776): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(777): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(780): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(781): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(822): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(841): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(852): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\hullmain.cpp(863): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+  io.cpp
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(274): warning C4996: 'tmpnam': This function or variable may be unsafe. Consider using tmpnam_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(440): note: consulte a declaração de 'tmpnam'
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(280): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(282): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(286): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(288): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: consulte a declaração de 'fscanf'
+c:\users\isabe\documents\visualstudioprojects\pc\io.cpp(376): warning C4244: '=': conversão de 'Coord' para 'float', possível perda de dados
+  label.cpp
+  math.cpp
+  pointops.cpp
+  power.cpp
+c:\users\isabe\documents\visualstudioprojects\pc\power.cpp(534): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\pc\power.cpp(595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+  powershape.cpp
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(82): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(97): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(112): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(130): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(146): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(151): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(175): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(181): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(192): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(205): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(223): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(233): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(259): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+  predicates.cpp
+  rand.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(17): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(17): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(18): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(18): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(178): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(178): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(179): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(179): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(180): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(180): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(210): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(210): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(214): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_new.h(214): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(11): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(12): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(12): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(533): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(533): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ymath.h(8): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ymath.h(9): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ymath.h(9): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ymath.h(76): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\ymath.h(76): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\float.h(229): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\float.h(229): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\float.h(230): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\float.h(230): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\float.h(238): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\float.h(238): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(362): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(362): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(363): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(363): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(364): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(364): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(373): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(373): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(304): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(304): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(305): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(305): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(339): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(339): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(637): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(637): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(638): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(638): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(639): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(639): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(646): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(646): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(687): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(687): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(688): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(688): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(695): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(695): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1098): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1098): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1099): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1099): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1100): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1100): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1109): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1109): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1224): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1224): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1225): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1225): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1238): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1238): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1296): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1296): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1297): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1297): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1299): warning C4141: 'deprecated': usado mais de uma vez
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1307): warning C4141: 'deprecated': usado mais de uma vez
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1315): warning C4141: 'deprecated': usado mais de uma vez
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1322): warning C4141: 'deprecated': usado mais de uma vez
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1329): warning C4141: 'deprecated': usado mais de uma vez
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1344): warning C4141: 'deprecated': usado mais de uma vez
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1358): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1358): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(12): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(13): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(13): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(63): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstdlib(63): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cmath(11): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cmath(12): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cmath(12): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(9): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(10): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(10): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(340): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtr1common(340): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtgmath.h(13): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtgmath.h(14): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtgmath.h(14): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtgmath.h(237): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xtgmath.h(237): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cmath(1183): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cmath(1183): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h(58): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h(58): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h(80): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h(80): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(311): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(311): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(312): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(312): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(314): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(314): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(313): warning C4996: '_vcwscanf_l': This function or variable may be unsafe. Consider using _vcwscanf_s_l instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(287): note: consulte a declaração de '_vcwscanf_l'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(360): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(360): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(361): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(361): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(363): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(363): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(362): warning C4996: '_vcwscanf_l': This function or variable may be unsafe. Consider using _vcwscanf_s_l instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(287): note: consulte a declaração de '_vcwscanf_l'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(382): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(382): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(383): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(383): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(385): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(385): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(384): warning C4996: '_vcwscanf_l': This function or variable may be unsafe. Consider using _vcwscanf_s_l instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h(287): note: consulte a declaração de '_vcwscanf_l'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h(17): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h(17): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h(18): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h(18): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h(270): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h(270): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(97): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(97): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(98): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(98): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(99): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(99): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(105): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(105): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(120): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(120): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(121): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(121): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(122): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(122): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(128): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(128): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(243): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(243): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(244): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(244): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(245): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(245): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(252): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(226): note: consulte a declaração de 'wcstok'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(266): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(226): note: consulte a declaração de 'wcstok'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(270): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(270): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\sys\stat.h(16): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\sys\stat.h(16): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\sys\stat.h(17): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\sys\stat.h(17): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\sys\stat.h(249): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\sys\stat.h(249): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(231): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(231): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(232): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(232): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(234): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(234): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(244): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(244): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(245): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(245): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(247): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\wchar.h(247): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(11): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(12): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(12): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(20): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(20): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(21): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(21): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(49): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(49): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(54): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cwchar(54): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(11): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(12): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(12): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(105): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\cstddef(105): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(9): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(10): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(10): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(76): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\initializer_list(76): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(12): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(13): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(13): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(498): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstddef(498): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits(14): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits(15): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits(15): warning C4081: esperado 'identificador'; encontrado '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits(1171): warning C4003: não há argumentos suficientes para a invocação de macro de função 'warning'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits(1171): warning C4081: esperado 'identificador'; encontrado '{'
+c:\users\isabe\documents\visualstudioprojects\pc\rand.cpp(27): warning C4244: '=': conversão de 'time_t' para 'unsigned short', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\pc\rand.cpp(31): warning C4273: 'logb': vínculo de dll inconsistente
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(519): note: consulte a definição anterior de 'logb'
+  setNormals.cpp
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(66): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(95): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(100): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(171): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(167): warning C4101: 'e2': variável local não referenciada
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(167): warning C4101: 'e1': variável local não referenciada
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(224): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(252): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(263): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(266): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(269): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(298): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(301): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+  Gerando Código...
+c:\users\isabe\documents\visualstudioprojects\pc\setnormals.cpp(357): warning C4715: 'mainNormals': nem todos os caminhos de controle retornam um valor
+c:\users\isabe\documents\visualstudioprojects\pc\powershape.cpp(327): warning C4715: 'mainPowershape': nem todos os caminhos de controle retornam um valor
+     Criando biblioteca C:\Users\isabe\Documents\VisualStudioProjects\PC\powercrust-msvc2010\Debug\powercrust.lib e objeto C:\Users\isabe\Documents\VisualStudioProjects\PC\powercrust-msvc2010\Debug\powercrust.exp
+  powercrust.vcxproj -> C:\Users\isabe\Documents\VisualStudioProjects\PC\powercrust-msvc2010\Debug\powercrust.exe
