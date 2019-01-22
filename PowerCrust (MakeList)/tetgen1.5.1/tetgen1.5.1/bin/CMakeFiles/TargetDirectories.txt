@@ -1,0 +1,4 @@
+C:/Users/isabe/Downloads/tetgen1.5.1/tetgen1.5.1/bin/CMakeFiles/tetgen.dir
+C:/Users/isabe/Downloads/tetgen1.5.1/tetgen1.5.1/bin/CMakeFiles/tet.dir
+C:/Users/isabe/Downloads/tetgen1.5.1/tetgen1.5.1/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/isabe/Downloads/tetgen1.5.1/tetgen1.5.1/bin/CMakeFiles/ZERO_CHECK.dir
