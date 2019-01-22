@@ -1,0 +1,333 @@
+﻿  Powercrust_exe.cpp
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hr_time.h(4): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(10): warning C4005: '_ITERATOR_DEBUG_LEVEL': redefinição de macro
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals.h(121): note: consulte a definição anterior de '_ITERATOR_DEBUG_LEVEL'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(86): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(132): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(137): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(142): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(153): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(326): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(331): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(386): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\hcpo3d.h(391): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(167): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(168): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(169): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(173): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(174): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(175): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(179): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(180): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(181): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(186): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(187): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(188): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(211): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(271): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(289): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(203): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(279): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(280): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(361): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(362): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(364): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(457): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(458): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(460): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(564): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(565): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(567): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(578): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(579): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(626): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(627): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(737): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(738): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(739): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(807): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(808): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(809): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(810): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(815): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(818): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1267): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: consulte a declaração de 'strncpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1274): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1277): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1295): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1429): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: consulte a declaração de 'strncpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1436): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1439): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1645): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: consulte a declaração de 'strncpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1652): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1655): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1778): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: consulte a declaração de 'strncpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1785): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(1788): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2140): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: consulte a declaração de 'strncpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2147): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2149): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2165): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2171): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2234): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: consulte a declaração de 'sscanf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2441): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2443): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2467): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2469): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2493): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2495): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2540): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2542): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2569): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2571): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2597): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2599): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2632): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2634): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2730): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(2732): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3199): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3022): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3023): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3028): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3029): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3033): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: consulte a declaração de 'strncpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3509): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3530): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3532): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3533): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3538): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3541): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3542): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3544): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(3545): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(10834): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: consulte a declaração de 'sprintf'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28666): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28667): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28686): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28860): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28861): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28873): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28943): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28944): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(28959): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29086): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29087): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29268): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29269): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29281): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29372): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29373): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29385): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29568): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29569): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29595): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29746): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29747): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29759): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29889): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29890): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29904): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(29999): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30000): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30042): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30094): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30095): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30196): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30197): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30209): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30310): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30311): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30323): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30447): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30449): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30453): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30454): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30455): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30460): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30555): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30557): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30561): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30566): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30722): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30724): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30726): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30728): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: consulte a declaração de 'strcat'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\tetgen.cxx(30733): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: consulte a declaração de 'fopen'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(255): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(253): warning C4101: 'i': variável local não referenciada
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(561): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(717): warning C4101: 'deleted2': variável local não referenciada
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(763): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(1055): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(1059): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\powercrust.h(1086): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\shell_io.h(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\shell_io.h(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\shell_io.h(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: consulte a declaração de 'strcpy'
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\code\powercrust_exe.cpp(55): error C2664: 'int atoi(const char *)': não é possível converter um argumento 1 de 'int' em 'const char *'
+  c:\users\isabe\documents\visualstudioprojects\powercrust\src\code\powercrust_exe.cpp(55): note: Conversão de tipo integral para tipo de ponteiro requer reinterpret_cast, conversão C-style ou conversão function-style
+c:\users\isabe\documents\visualstudioprojects\powercrust\src\code\powercrust_exe.cpp(55): error C2660: 'FILE_MANAGER::Write_stl': função não recebe 3 argumentos
+  c:\users\isabe\documents\visualstudioprojects\powercrust\src\util\filemanager.h(119): note: consulte a declaração de 'FILE_MANAGER::Write_stl'
